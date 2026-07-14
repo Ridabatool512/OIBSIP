@@ -8,8 +8,7 @@ Design a set of promotional posters/fliers for different campaigns.
 - Adobe Photoshop
 
 ## Deliverables
-- Poster 1
-- Poster 2
-- Source files
+- Poster 1 JPEG
+- Poster 2 JPEG
 
 This folder contains my submission for Task 1 of the Oasis Infobyte Graphics Design Internship.
